@@ -1,0 +1,11 @@
+2023-12-24 17:33:22,272 - INFO - aiogram.dispatcher - Start polling
+2023-12-24 17:33:22,388 - INFO - aiogram.dispatcher - Run polling for bot @ootd_store_bot id=6577492630 - 'OOTD - Outfit of the day'
+2023-12-24 17:33:26,223 - INFO - aiogram.event - Update id=110041724 is handled. Duration 443 ms by bot id=6577492630
+2023-12-24 17:33:27,471 - INFO - aiogram.event - Update id=110041725 is handled. Duration 198 ms by bot id=6577492630
+2023-12-24 17:33:33,379 - INFO - aiogram.event - Update id=110041726 is handled. Duration 242 ms by bot id=6577492630
+2023-12-24 17:33:34,355 - INFO - aiogram.event - Update id=110041727 is handled. Duration 142 ms by bot id=6577492630
+2023-12-24 17:33:35,596 - INFO - aiogram.event - Update id=110041728 is handled. Duration 441 ms by bot id=6577492630
+2023-12-24 17:33:38,189 - INFO - aiogram.event - Update id=110041729 is handled. Duration 552 ms by bot id=6577492630
+2023-12-24 17:33:38,674 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2023-12-24 17:33:38,676 - INFO - aiogram.dispatcher - Polling stopped for bot @ootd_store_bot id=6577492630 - 'OOTD - Outfit of the day'
+2023-12-24 17:33:38,677 - INFO - aiogram.dispatcher - Polling stopped

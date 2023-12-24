@@ -1,0 +1,26 @@
+2023-12-24 17:33:50,234 - INFO - aiogram.dispatcher - Start polling
+2023-12-24 17:33:50,355 - INFO - aiogram.dispatcher - Run polling for bot @ootd_store_bot id=6577492630 - 'OOTD - Outfit of the day'
+2023-12-24 17:34:42,788 - INFO - aiogram.event - Update id=110041731 is handled. Duration 451 ms by bot id=6577492630
+2023-12-24 17:34:56,212 - INFO - aiogram.event - Update id=110041732 is handled. Duration 155 ms by bot id=6577492630
+2023-12-24 17:36:22,674 - INFO - aiogram.event - Update id=110041733 is handled. Duration 622 ms by bot id=6577492630
+2023-12-24 17:36:30,947 - INFO - aiogram.event - Update id=110041734 is handled. Duration 148 ms by bot id=6577492630
+2023-12-24 17:36:35,705 - INFO - aiogram.event - Update id=110041735 is handled. Duration 133 ms by bot id=6577492630
+2023-12-24 17:36:40,983 - INFO - aiogram.event - Update id=110041736 is handled. Duration 175 ms by bot id=6577492630
+2023-12-24 17:36:43,479 - INFO - aiogram.event - Update id=110041737 is handled. Duration 415 ms by bot id=6577492630
+2023-12-24 17:36:48,084 - INFO - aiogram.event - Update id=110041738 is handled. Duration 408 ms by bot id=6577492630
+2023-12-24 17:36:49,762 - INFO - aiogram.event - Update id=110041739 is handled. Duration 580 ms by bot id=6577492630
+2023-12-24 17:36:59,537 - INFO - aiogram.event - Update id=110041740 is handled. Duration 553 ms by bot id=6577492630
+2023-12-24 17:37:05,140 - INFO - aiogram.event - Update id=110041741 is handled. Duration 195 ms by bot id=6577492630
+2023-12-24 17:37:08,520 - INFO - aiogram.event - Update id=110041742 is handled. Duration 429 ms by bot id=6577492630
+2023-12-24 17:37:13,011 - INFO - aiogram.event - Update id=110041743 is handled. Duration 869 ms by bot id=6577492630
+2023-12-24 17:37:15,122 - INFO - aiogram.event - Update id=110041744 is handled. Duration 205 ms by bot id=6577492630
+2023-12-24 17:37:20,809 - INFO - aiogram.event - Update id=110041745 is handled. Duration 448 ms by bot id=6577492630
+2023-12-24 17:37:28,211 - INFO - aiogram.event - Update id=110041746 is handled. Duration 214 ms by bot id=6577492630
+2023-12-24 17:37:32,190 - INFO - aiogram.event - Update id=110041747 is handled. Duration 484 ms by bot id=6577492630
+2023-12-24 17:37:52,465 - INFO - aiogram.event - Update id=110041748 is handled. Duration 360 ms by bot id=6577492630
+2023-12-24 17:37:56,230 - INFO - aiogram.event - Update id=110041749 is handled. Duration 163 ms by bot id=6577492630
+2023-12-24 17:37:59,900 - INFO - aiogram.event - Update id=110041750 is handled. Duration 174 ms by bot id=6577492630
+2023-12-24 17:38:20,170 - INFO - aiogram.event - Update id=110041751 is handled. Duration 412 ms by bot id=6577492630
+2023-12-24 17:42:17,681 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2023-12-24 17:42:17,682 - INFO - aiogram.dispatcher - Polling stopped for bot @ootd_store_bot id=6577492630 - 'OOTD - Outfit of the day'
+2023-12-24 17:42:17,683 - INFO - aiogram.dispatcher - Polling stopped
